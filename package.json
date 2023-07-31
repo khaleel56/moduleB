@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/khaleel56/moduleB/issues"
   },
-  "homepage": "https://github.com/khaleel56/moduleB#readme"
+  "homepage": "https://github.com/khaleel56/moduleB#readme",
+  "dependencies": {
+    "modulea": "github:khaleel56/moduleA"
+  }
 }
